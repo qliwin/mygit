@@ -10,3 +10,13 @@ remoteadd方式
 - 功能2
 - 功能3
 - 功能4
+
+## 安装git步骤
+- 第一步：下载
+
+## 使用git
+- git add
+- gir commit 
+
+
+## git高级
